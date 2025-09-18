@@ -65,9 +65,6 @@ Maka hasil:
 
 Clone repository ini:
 
-git clone https://github.com/patricxp/leap_year_GUI_matlab.git
-
-
 Buka file .mlapp di MATLAB.
 
 Jalankan aplikasi GUI.
